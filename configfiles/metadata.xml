@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+  <ExtensionPackages>
+    <ExtensionPackage 
+      name="ImageLoaderWidget"
+      packageVersion="1.2.2"
+      vendor="Accenture Italy - Industry X"
+      description="Extension to manage client side image upload"
+      minimumThingWorxVersion="8.3.0"
+      dependsOn=""> 
+    </ExtensionPackage>
+  </ExtensionPackages>
+  
+  <Widgets>
+    <Widget name="imageloader">
+      <UIResources>
+        <FileResource description="" file="imageloader.ide.js" isDevelopment="true" isRuntime="false" type="JS"/>
+        <FileResource description="" file="imageloader.ide.css" isDevelopment="true" isRuntime="false" type="CSS"/>
+        <FileResource description="" file="imageloader.runtime.js" isDevelopment="false" isRuntime="true" type="JS"/>
+        <FileResource description="" file="imageloader.runtime.css" isDevelopment="false" isRuntime="true" type="CSS"/>
+      </UIResources>
+    </Widget>
+  </Widgets>
+</Entities>
