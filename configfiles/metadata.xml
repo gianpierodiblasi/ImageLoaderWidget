@@ -4,7 +4,7 @@
     <ExtensionPackage 
       name="ImageLoaderWidget"
       packageVersion="1.2.2"
-      vendor="Accenture Italy - Industry X"
+      vendor="Gianpiero Di Blasi"
       description="Extension to manage client side image upload"
       minimumThingWorxVersion="8.3.0"
       dependsOn=""> 
