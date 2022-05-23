@@ -1,6 +1,8 @@
 # ImageLoaderWidget
 An extension to manage client side image upload.
 
+**This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite and there is no PTC support.**
+
 ## Description
 This extension provides a widget to manage client side image upload (the image is not sent to the server). The image loading can be started in three ways:
 - by clicking in an area
